@@ -23,7 +23,7 @@ const API_KEY = "YOUR_API_KEY";
 ```
 
 ## Вид приложения
-___
+
 ### Экраны
 <div>
 <img src="assets\readmeresources\search_city.png" alt="screen" width="200"/>&nbsp;&nbsp;&nbsp;
